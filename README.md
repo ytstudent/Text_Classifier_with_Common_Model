@@ -1,6 +1,6 @@
 # Text_Classifier_with_LSTM  
 
-A text-classifier with LSTM model,just for rookie like me,It's running with cpu  
+A text-classifier with LSTM model, in PyTorch.It's just for rookie like me,It's running on cpu.  
 
 About data:  
     a.There are only 20 sentences in the data files because the original data is the company's business secret.The data just for you to         understand codes in "type_transforms.py".  
