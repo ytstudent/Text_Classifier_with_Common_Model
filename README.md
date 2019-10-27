@@ -4,7 +4,7 @@ A text-classifier with LSTM model, in PyTorch.It's just for rookie like me,It's 
 
 About data:  
     a.There are only 20 sentences in the data files because the original data is the company's business secret.The data just for you to         understand codes in "type_transforms.py".  
-    b.Those sentences has been tokenized before I transform it in "data_all.txt".You can use jieba to tokenize Chinese string.  
+    b.Those sentences has been tokenized before I transformed it in "data_all.txt".You can use jieba to tokenize Chinese string.  
     
 About accuracy: It's very dependent on the original data  
 
