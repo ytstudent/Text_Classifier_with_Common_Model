@@ -1,0 +1,10 @@
+﻿医生 你好 , 我 是 乙肝患者 , 一直 服用 恩替卡韦 7 片 装 , 没有 不良反应 , 申请 来 3 个 疗程 10 盒 。	__label__buy_medicine
+为何 老 重复 ; 持续时间 : 半年 以上	__label__question
+过敏性支气管炎 , 一直 用 布地奈德 吸入 剂	__label__buy_medicine
+乳腺囊肿 有 许多 颗 , 乳腺纤维瘤 有 一颗 。	__label__other
+扁桃体发炎 , 痛 ; 持续时间 : 一周 内	__label__other
+我 以前 之 一直 使用 舒利迭 沙美特罗替卡松粉吸入剂 50 μ g / 25 0 μ g * 60 吸 没有 不良反应	__label__buy_medicine
+医生 你好 , 由于 去 美容院 做 了 激光 祛斑 , 脸上 红 , 需要 此 药 .	__label__other
+米 诺 环 素 ; 持续时间 : 半年 以上	__label__buy_medicine
+嗓子 干 , 有 粘稠 的 炭 ; 持续时间 : 半年 以上 ; 持续时间 : 半年 以上	__label__request_disease
+咳嗽 上 吸 道 ; 持续时间 : 一周 内	__label__request_disease

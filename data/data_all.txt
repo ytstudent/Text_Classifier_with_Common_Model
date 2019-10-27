@@ -1,0 +1,20 @@
+﻿体质 , 需要 信 必 可 这种 药	__label__other
+还是 有点 咳 嗦 , 想 再 吃 点 苏 黄 止咳	__label__buy_medicine
+糠 酸 莫 米 松 喷雾剂 ; 持续时间 : 半年 内	__label__buy_medicine
+咳嗽 , 流鼻涕 五天 , 两天 前 鼻涕发黄 发臭 , 右 上颌 里面 牙齿 疼痛 ; 持续时间 : 一周 内	__label__request_disease
+昨天 看 的 , 今天 血常规 出来 了	__label__other
+感冒咳嗽 咳嗽 停不下来 以前 用 过 该 药品	__label__other
+咳嗽 有痰 , 胸闷 ; 持续时间 : 一周 内	__label__request_disease
+抵抗力 低 ; 持续时间 : 一月 内	__label__other
+咳嗽 , 痰 是 黄绿色 , 是否 需要 吃 希舒美 ?	__label__question
+咳嗽 , 干咳 , 嗓子疼 , 觉得 嗓子 有 异物 , 没有 流鼻涕 。	__label__request_disease
+医生 你好 , 我 是 乙肝患者 , 一直 服用 恩替卡韦 7 片 装 , 没有 不良反应 , 申请 来 3 个 疗程 10 盒 。	__label__buy_medicine
+为何 老 重复 ; 持续时间 : 半年 以上	__label__question
+过敏性支气管炎 , 一直 用 布地奈德 吸入 剂	__label__buy_medicine
+乳腺囊肿 有 许多 颗 , 乳腺纤维瘤 有 一颗 。	__label__other
+扁桃体发炎 , 痛 ; 持续时间 : 一周 内	__label__other
+我 以前 之 一直 使用 舒利迭 沙美特罗替卡松粉吸入剂 50 μ g / 25 0 μ g * 60 吸 没有 不良反应	__label__buy_medicine
+医生 你好 , 由于 去 美容院 做 了 激光 祛斑 , 脸上 红 , 需要 此 药 .	__label__other
+米 诺 环 素 ; 持续时间 : 半年 以上	__label__buy_medicine
+嗓子 干 , 有 粘稠 的 炭 ; 持续时间 : 半年 以上 ; 持续时间 : 半年 以上	__label__request_disease
+咳嗽 上 吸 道 ; 持续时间 : 一周 内	__label__request_disease

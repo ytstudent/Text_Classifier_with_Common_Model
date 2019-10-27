@@ -1,0 +1,10 @@
+﻿体质 , 需要 信 必 可 这种 药	__label__other
+还是 有点 咳 嗦 , 想 再 吃 点 苏 黄 止咳	__label__buy_medicine
+糠 酸 莫 米 松 喷雾剂 ; 持续时间 : 半年 内	__label__buy_medicine
+咳嗽 , 流鼻涕 五天 , 两天 前 鼻涕发黄 发臭 , 右 上颌 里面 牙齿 疼痛 ; 持续时间 : 一周 内	__label__request_disease
+昨天 看 的 , 今天 血常规 出来 了	__label__other
+感冒咳嗽 咳嗽 停不下来 以前 用 过 该 药品	__label__other
+咳嗽 有痰 , 胸闷 ; 持续时间 : 一周 内	__label__request_disease
+抵抗力 低 ; 持续时间 : 一月 内	__label__other
+咳嗽 , 痰 是 黄绿色 , 是否 需要 吃 希舒美 ?	__label__question
+咳嗽 , 干咳 , 嗓子疼 , 觉得 嗓子 有 异物 , 没有 流鼻涕 。	__label__request_disease
