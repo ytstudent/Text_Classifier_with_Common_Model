@@ -1,6 +1,5 @@
 import collections
 import numpy as np
-from sklearn.preprocessing import LabelEncoder
 
 
 class Tools(object):
@@ -95,34 +94,9 @@ if __name__ == "__main__":
     tools = Tools()
 
     data_all_df = trans.from_txt_to_df(r".\data\data_all.txt")
-    training_df = trans.from_txt_to_df(r"D:\learn\Text_Classifier_LSTM\data\training_data.txt")
-    testing_df = trans.from_txt_to_df(r"D:\learn\Text_Classifier_LSTM\data\testing_data.txt")
+    training_df = trans.from_txt_to_df(r".\data\training_data.txt")
+    testing_df = trans.from_txt_to_df(r".\data\testing_data.txt")
     info_str = " , ".join(data_all_df["information"])
 
     _, _, dictionary, _ = tools.word_bag(info_str)
-
-    encoder = LabelEncoder()
-    encoder.fit(data_all_df["intention"])
-    token_num = 80
-    inputs_training = []
-    for i in training_df["information"]:
-        i_input = tools.sent2array(i, token_num)
-        inputs_training.append(i_input)
-
-    inputs_training = np.array(inputs_training)
-    target_training = encoder.transform(training_df["intention"])
-
-    inputs_testing = []
-    for i in testing_df["information"]:
-        i_input = tools.sent2array(i, token_num)
-        inputs_testing.append(i_input)
-    inputs_testing = np.array(inputs_testing)
-    target_testing = encoder.transform(testing_df["intention"])
-    batch_size = 15
-    i = 0
-    for X_batch, y_batch, n_batches, real_len in tools.shuffle_batch(inputs_training, target_training, batch_size,
-                                                                     token_num):
-        print(X_batch)
-        print(real_len)
-        i += 1
-        print(i)
+    print(dictionary)
