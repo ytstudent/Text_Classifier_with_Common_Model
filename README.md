@@ -1,6 +1,5 @@
 # Text_Classifier_with_LSTM
-A text-classifier with LSTM model,just for rookie like me,It's running with cpu /n
-I.About data: 
+A text-classifier with LSTM model,just for rookie like me,It's running with cpu  I.About data: 
     a.There are only 20 sentences in the data files because the original data is the company's business secret.The data just for you to         understand codes in "type_transforms.py".
     b.Those sentences has been tokenized before I transform it in "data_all.txt".You can use jieba to tokenize Chinese string.
 II.About accuracy: It's very dependent on the original data
